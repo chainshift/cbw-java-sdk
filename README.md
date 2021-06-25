@@ -31,9 +31,6 @@
     </dependency>
 ```
 
-## API列表
-请查看[BIXWM-API](../cbw-api/README.md)
-
 ## 使用说明
 1. 初始化SDK：设置访问的环境和你的租户Key
 ```java
@@ -50,3 +47,6 @@
 ```
 
 更多的方法说明详情请参见[BixWmSdkTest](src/test/java/com/bix360/wallet/sdk/BixWmSdkTest.java)里的用例
+
+## API列表
+请查看[BIXWM-API](../cbw-api/README.md)
