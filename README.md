@@ -1,9 +1,9 @@
-# BIXWM SDK
+# CBW SDK - Java
 
-本文档主要阐述如何使用BIXWM-SDK来使用BIXWM提供的加密资产的托管服务。
+本文档主要阐述如何使用CBW-SDK来使用CBW提供的加密资产的托管服务。
 
 ## 接入步骤
-1. 请查看[BIXWM-API](../cbw-api/README.md)申请租户的ApiKey。
+1. 请查看[CBW-API手册](https://github.com/chainshift/cbw-api)申请租户的ApiKey。
 2. 将`bixwm-sdk.jar`添加到本地工程中，详见[工程依赖](#工程依赖)。
 3. 参见[使用说明](#使用说明)调用。
 
@@ -48,5 +48,5 @@
 
 更多的方法说明详情请参见[BixWmSdkTest](src/test/java/com/bix360/wallet/sdk/BixWmSdkTest.java)里的用例
 
-## API列表
-请查看[BIXWM-API](https://github.com/chainshift/cbw-api)
+## API手册
+请查看[CBW-API手册](https://github.com/chainshift/cbw-api)
