@@ -49,4 +49,4 @@
 更多的方法说明详情请参见[BixWmSdkTest](src/test/java/com/bix360/wallet/sdk/BixWmSdkTest.java)里的用例
 
 ## API列表
-请查看[BIXWM-API](../cbw-api/README.md)
+请查看[BIXWM-API](https://github.com/chainshift/cbw-api)
